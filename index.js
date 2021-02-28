@@ -29,4 +29,4 @@ app.get("/", async (req, res) => {
   });
 });
 
-app.listen(port, () => console.log(`Listening on  localhot:${port}`));
+app.listen(port, () => console.log(`Listening on  localhost:${port}`));

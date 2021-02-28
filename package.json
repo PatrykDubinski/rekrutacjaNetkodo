@@ -1,0 +1,11 @@
+{
+  "name": "rektutacjanetkodo",
+  "version": "1.0.0",
+  "description": "Zadanie rekrutacyjne",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Patryk Dubinski",
+  "license": "ISC"
+}
